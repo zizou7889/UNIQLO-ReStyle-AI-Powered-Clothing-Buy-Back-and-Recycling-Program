@@ -1,5 +1,3 @@
----
-
 # ReStyle
 
 ### AI-Enabled Circular Fashion and Smart Recycling System for UNIQLO
