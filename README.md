@@ -1,4 +1,5 @@
 # ReStyle
+Prototype Demo video :https://drive.google.com/file/d/1RSev3t5m_0L3qvTbGDYJKcQkMbG1JqUE/view?usp=sharing
 
 ### AI-Enabled Circular Fashion and Smart Recycling System for UNIQLO
 
@@ -156,7 +157,7 @@ This repository represents a conceptual innovation project and is not an officia
 
 This project is intended for academic, conceptual, and non-commercial demonstration purposes.
 
----
+
 
 
 
